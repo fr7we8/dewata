@@ -1,5 +1,5 @@
 body,html{
-  background:url(https://i.imgur.com/iCZSjWa.png) center no-repeat;
+  background:url(https://pbs.twimg.com/media/EnOTQIzVkAA_ZkG.jpg) center no-repeat;
   background-size:cover;
   min-height:100%;
   font-family: 'Roboto Mono',  monospace;
@@ -23,7 +23,7 @@ h1,h2{
   position: relative;
   margin: 0 auto;
   padding: 0;
-  width: 200px;
+  width: 300px;
   min-width: 300px;
   background: #ffffff;
   border-radius: 5px;
